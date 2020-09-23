@@ -6,22 +6,8 @@
 
 ## Sumário 
 * Segmentação das camadas de cores, logo obter imagem monocromática 
-![Red - Blue](https://github.com/sswellington/agrega/blob/main/assets/rb.png?raw=true)
-
 * Análise de histograma
-![Histograma](https://github.com/sswellington/agrega/blob/main/assets/histograma.png?raw=true)
-
 * Transformação da imagem monocromática para binária 
-![Binária](https://github.com/sswellington/agrega/blob/main/assets/binaria_complemento.png?raw=true)
-
 * Morfologia matemática
-![Morfologia matemática](https://github.com/sswellington/agrega/blob/main/assets/mask.png?raw=true)
-
-
 * Detecção de borda
-![Prewitt](https://github.com/sswellington/agrega/blob/main/assets/prewitt.png?raw=true)
-
-
 * Agregados presentes em uma amostragem de concreto  
-![Resultado](https://github.com/sswellington/agrega/blob/main/assets/resultado.png?raw=true "Resultado")
-
