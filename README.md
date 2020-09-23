@@ -1,16 +1,3 @@
----
-layout: post
-title:  "Agrega"
-date:   2016-03-10 16:54:34 -0300
-author: Wellington Silva
-tag: projeto
-categories: ["SVC"]
----
-
-[Github](https://github.com/sswellington/agrega)
-
----
-
 ## Objetivo
 * Desenvolver Ad Hoc de Sistema de Visão Artificial - SVA   para  extrair   as  seguintes informações das imagens de concreto tratado por meio de  solução  de  fenolftaleína.  (realce  da  pasta,  que  se apresenta "avermelhada"):
 * Área relativa ocupada pelos agregados (percentual);
